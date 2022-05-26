@@ -1,0 +1,13 @@
+
+.card{
+    margin: 12px;
+    padding: 24px;
+    height: 180px;
+    width: 800px;
+    border: 1px solid rgb(180, 199, 199);
+}
+
+img{
+    height: 120.5px;
+    width: 120px;
+}
